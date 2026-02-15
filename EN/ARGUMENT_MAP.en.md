@@ -20,3 +20,15 @@
 **S2.** From P3–P5: strong functionalism cannot secure ownership using only functional-role resources. ([G3], [G4], [G2])  
 **S3.** From P6–P8: restoring ownership requires importing governance/normativity, hence internal defeat. ([G8], [G5], [G10])  
 **S4.** Therefore C.
+
+
+# cp-core-02 — Argument Map (v0.1.0)
+
+C: Strong functionalism is internally defeated for grounding responsibility, because ownership requires normative authority not derivable from functional role alone.
+
+P1 Responsibility requires output/commitment distinction.  
+P2 Owned commitment requires non-delegable appropriation (S→E→K).  
+P3 Strong functionalism: agency = functional role.  
+P4 Functional role doesn’t generate normative authority.  
+P5 Governance import restores ownership from outside.  
+P6 Therefore functionalism presupposes or externalizes normativity → internal defeat.
