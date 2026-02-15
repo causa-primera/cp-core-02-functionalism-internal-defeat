@@ -1,7 +1,5 @@
 # EN/THESIS.en.md
 
-[Inference]
-
 # cp-core-02 — Functionalism: Internal Defeat (v0.1.0)
 
 ## 1. Claim (core result)
@@ -63,3 +61,10 @@ A system can mimic reason-responsiveness behaviorally while remaining **non-attr
 - This is a scaffold release: core thesis + argument map + glossary.
 - It does not settle the metaphysics of mind or consciousness.
 - It does not claim that non-human responsible subjects are impossible. It claims that **functional role alone** is not enough to ground responsibility attribution without importing normative structure.
+
+[Inference]
+
+# cp-core-02 — Functionalism: Internal Defeat (v0.1.0)
+
+Strong functionalism about agency is internally defeated for responsibility attribution: it cannot justify owned commitment vs output without importing normativity/governance external to functional role. This repo states the negative result and aligns it with core-01 (S→E→K) and core-03 (apparatus constraints).
+
