@@ -34,3 +34,6 @@ Delegating evaluation/selection to instruments in a way that risks displacing re
 
 ## G10 — Internal defeat
 A failure mode where a theory must import what it claims to explain or ground using only its own resources.
+
+
+
